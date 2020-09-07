@@ -1,1 +1,1 @@
-# event_driven_dynamic
+# Sample app using NServiceBus/EDA and loosely couples messages

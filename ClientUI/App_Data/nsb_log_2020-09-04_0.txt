@@ -1,0 +1,69 @@
+﻿2020-09-04 09:50:40.042 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 09:50:40.316 INFO  Auditing processed messages to 'audit'
+2020-09-04 09:50:40.350 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 10:39:53.727 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 10:39:53.981 INFO  Auditing processed messages to 'audit'
+2020-09-04 10:39:54.037 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 10:43:32.961 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 10:43:33.248 INFO  Auditing processed messages to 'audit'
+2020-09-04 10:43:33.297 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 11:07:38.032 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 11:07:38.328 INFO  Auditing processed messages to 'audit'
+2020-09-04 11:07:38.367 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 11:08:39.615 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 11:08:39.864 INFO  Auditing processed messages to 'audit'
+2020-09-04 11:08:39.919 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:11:10.685 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:11:10.985 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:11:11.024 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:22:05.570 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:22:05.774 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:22:05.828 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:28:37.655 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:28:37.870 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:28:37.903 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:35:06.508 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:35:06.742 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:35:06.774 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:40:38.263 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:40:38.639 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:40:38.685 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:42:45.743 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:42:46.220 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:42:46.267 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 12:49:47.324 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 12:49:48.180 INFO  Auditing processed messages to 'audit'
+2020-09-04 12:49:48.725 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 13:15:43.637 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 13:15:43.952 INFO  Auditing processed messages to 'audit'
+2020-09-04 13:15:44.019 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 13:26:59.844 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 13:27:00.136 INFO  Auditing processed messages to 'audit'
+2020-09-04 13:27:00.178 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 15:30:19.251 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 15:30:19.476 INFO  Auditing processed messages to 'audit'
+2020-09-04 15:30:19.506 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 15:31:12.971 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 15:31:13.316 INFO  Auditing processed messages to 'audit'
+2020-09-04 15:31:13.353 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 15:43:00.964 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 15:43:07.477 INFO  Auditing processed messages to 'audit'
+2020-09-04 15:43:07.593 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 16:03:08.528 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 16:03:08.747 INFO  Auditing processed messages to 'audit'
+2020-09-04 16:03:08.777 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 16:05:55.818 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 16:05:56.197 INFO  Auditing processed messages to 'audit'
+2020-09-04 16:05:56.288 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 16:22:16.445 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 16:22:16.724 INFO  Auditing processed messages to 'audit'
+2020-09-04 16:22:16.761 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 16:57:59.358 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 16:57:59.568 INFO  Auditing processed messages to 'audit'
+2020-09-04 16:57:59.611 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 17:02:07.482 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 17:02:07.981 INFO  Auditing processed messages to 'audit'
+2020-09-04 17:02:08.027 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
+2020-09-04 17:05:19.982 INFO  Logging to 'C:\RnD\NServiceBus\tutorials-quickstart\ClientUI\App_Data\' with level Info
+2020-09-04 17:05:20.534 INFO  Auditing processed messages to 'audit'
+2020-09-04 17:05:20.604 INFO  No valid license could be found. Falling back to trial license with start date '2020-09-04'.
