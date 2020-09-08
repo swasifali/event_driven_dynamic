@@ -11,7 +11,7 @@
  
  # What it covers
  
- The code is based on the NServiceBus quickstart tutorial available for download at https://docs.particular.net/tutorials/quickstart/
+ The code is based on the NServiceBus quickstart tutorial available for download [here](https://docs.particular.net/tutorials/quickstart/)
 
  Both NServiceBus and MassTransit require contracts to be shared between producers and consumers, including the full namespace.
  Some further discussion on this issue is available at:
