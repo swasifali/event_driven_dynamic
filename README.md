@@ -7,6 +7,7 @@
     - Sales
     - Billing
  - Run / Start debugging
+ - Click the "Place Order" button on the launched browser window to send / publish messages
  
  # What it covers
  
